@@ -7,13 +7,13 @@ import reportWebVitals from './reportWebVitals';
 import Meeting from './meeting';
 
 let payload={
-  meetingNumber:' 84954849042',
+  meetingNumber:'',
   role:1,
-  sdkKey:'fOM_9QF3TiG8ePNPVCmF9A',
-  sdkSecret:'MaseUpFWt2oixqVUudVkXManxklNbllk',
-  passWord:'598128',
+  sdkKey:'',
+  sdkSecret:'',
+  passWord:'',
   userName:'Testing',
-  userEmail:'bhawna@silwalk.com',
+  userEmail:'',
   leaveUrl:'https://localhost:3000'
 };
 
